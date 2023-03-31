@@ -20,6 +20,8 @@ jobs:
       name: master branch
     outputs:
       version: ${{ steps.update-version.outputs.version }}
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
         with:
