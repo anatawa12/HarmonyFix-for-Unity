@@ -1,9 +1,12 @@
 using System;
 using System.Reflection;
+using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using HarmonyLib;
 using UnityEditor;
 using UnityEngine;
+
+[assembly:InternalsVisibleTo("com.anatawa12.harmonyfix.caller")]
 
 namespace Anatawa12.HarmonyFix
 {

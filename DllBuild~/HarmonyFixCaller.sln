@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.anatawa12.harmonyfix.caller", "com.anatawa12.harmonyfix.caller\com.anatawa12.harmonyfix.caller.csproj", "{61473E01-F62D-4858-885D-278BB03DCEEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.anatawa12.harmonyfix", "com.anatawa12.harmonyfix\com.anatawa12.harmonyfix.csproj", "{94168259-9C96-4A7B-A18D-ADC4DF877B81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61473E01-F62D-4858-885D-278BB03DCEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61473E01-F62D-4858-885D-278BB03DCEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61473E01-F62D-4858-885D-278BB03DCEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61473E01-F62D-4858-885D-278BB03DCEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94168259-9C96-4A7B-A18D-ADC4DF877B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94168259-9C96-4A7B-A18D-ADC4DF877B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94168259-9C96-4A7B-A18D-ADC4DF877B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94168259-9C96-4A7B-A18D-ADC4DF877B81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
