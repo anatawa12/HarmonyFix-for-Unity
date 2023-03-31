@@ -1,5 +1,6 @@
 {
   "name": "com.anatawa12.harmonyfix",
   "version": "1.0.0-SNAPSHOT",
+  "displayName": "Harmony bug Fix",
   "description": "Harmony's bug fix"
 }
